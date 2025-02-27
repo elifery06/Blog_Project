@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elif_\\source\\repos\\MCV_Blog_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20FFDA22-9B62-48DE-AD5D-D512C3EEF4CB}|MCV_Blog_Project\\MCV_Blog_Project.csproj|c:\\users\\elif_\\source\\repos\\mcv_blog_project\\mcv_blog_project\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20FFDA22-9B62-48DE-AD5D-D512C3EEF4CB}|MCV_Blog_Project\\MCV_Blog_Project.csproj|solutionrelative:mcv_blog_project\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\elif_\\source\\repos\\MCV_Blog_Project\\MCV_Blog_Project\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "MCV_Blog_Project\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\elif_\\source\\repos\\MCV_Blog_Project\\MCV_Blog_Project\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "MCV_Blog_Project\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T12:31:05.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
