@@ -3,19 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\elif_\\source\\repos\\MCV_Blog_Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{20FFDA22-9B62-48DE-AD5D-D512C3EEF4CB}|MCV_Blog_Project\\MCV_Blog_Project.csproj|C:\\Users\\elif_\\source\\repos\\MCV_Blog_Project\\mcv_blog_project\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20FFDA22-9B62-48DE-AD5D-D512C3EEF4CB}|MCV_Blog_Project\\MCV_Blog_Project.csproj|solutionrelative:mcv_blog_project\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FFDA22-9B62-48DE-AD5D-D512C3EEF4CB}|MCV_Blog_Project\\MCV_Blog_Project.csproj|c:\\users\\elif_\\source\\repos\\mcv_blog_project\\mcv_blog_project\\views\\blog\\bloglist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20FFDA22-9B62-48DE-AD5D-D512C3EEF4CB}|MCV_Blog_Project\\MCV_Blog_Project.csproj|solutionrelative:mcv_blog_project\\views\\blog\\bloglist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FFDA22-9B62-48DE-AD5D-D512C3EEF4CB}|MCV_Blog_Project\\MCV_Blog_Project.csproj|C:\\Users\\elif_\\source\\repos\\MCV_Blog_Project\\mcv_blog_project\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FFDA22-9B62-48DE-AD5D-D512C3EEF4CB}|MCV_Blog_Project\\MCV_Blog_Project.csproj|solutionrelative:mcv_blog_project\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{20FFDA22-9B62-48DE-AD5D-D512C3EEF4CB}|MCV_Blog_Project\\MCV_Blog_Project.csproj|c:\\users\\elif_\\source\\repos\\mcv_blog_project\\mcv_blog_project\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20FFDA22-9B62-48DE-AD5D-D512C3EEF4CB}|MCV_Blog_Project\\MCV_Blog_Project.csproj|solutionrelative:mcv_blog_project\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20FFDA22-9B62-48DE-AD5D-D512C3EEF4CB}|MCV_Blog_Project\\MCV_Blog_Project.csproj|c:\\users\\elif_\\source\\repos\\mcv_blog_project\\mcv_blog_project\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20FFDA22-9B62-48DE-AD5D-D512C3EEF4CB}|MCV_Blog_Project\\MCV_Blog_Project.csproj|solutionrelative:mcv_blog_project\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20FFDA22-9B62-48DE-AD5D-D512C3EEF4CB}|MCV_Blog_Project\\MCV_Blog_Project.csproj|c:\\users\\elif_\\source\\repos\\mcv_blog_project\\mcv_blog_project\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FFDA22-9B62-48DE-AD5D-D512C3EEF4CB}|MCV_Blog_Project\\MCV_Blog_Project.csproj|solutionrelative:mcv_blog_project\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20FFDA22-9B62-48DE-AD5D-D512C3EEF4CB}|MCV_Blog_Project\\MCV_Blog_Project.csproj|c:\\users\\elif_\\source\\repos\\mcv_blog_project\\mcv_blog_project\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20FFDA22-9B62-48DE-AD5D-D512C3EEF4CB}|MCV_Blog_Project\\MCV_Blog_Project.csproj|C:\\Users\\elif_\\source\\repos\\MCV_Blog_Project\\mcv_blog_project\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20FFDA22-9B62-48DE-AD5D-D512C3EEF4CB}|MCV_Blog_Project\\MCV_Blog_Project.csproj|solutionrelative:mcv_blog_project\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BlogList.cshtml",
+              "DocumentMoniker": "C:\\Users\\elif_\\source\\repos\\MCV_Blog_Project\\MCV_Blog_Project\\Views\\Blog\\BlogList.cshtml",
+              "RelativeDocumentMoniker": "MCV_Blog_Project\\Views\\Blog\\BlogList.cshtml",
+              "ToolTip": "C:\\Users\\elif_\\source\\repos\\MCV_Blog_Project\\MCV_Blog_Project\\Views\\Blog\\BlogList.cshtml",
+              "RelativeToolTip": "MCV_Blog_Project\\Views\\Blog\\BlogList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T14:36:31.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\elif_\\source\\repos\\MCV_Blog_Project\\MCV_Blog_Project\\Views\\Blog\\Index.cshtml",
               "RelativeDocumentMoniker": "MCV_Blog_Project\\Views\\Blog\\Index.cshtml",
               "ToolTip": "C:\\Users\\elif_\\source\\repos\\MCV_Blog_Project\\MCV_Blog_Project\\Views\\Blog\\Index.cshtml",
               "RelativeToolTip": "MCV_Blog_Project\\Views\\Blog\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-28T11:07:41.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\elif_\\source\\repos\\MCV_Blog_Project\\MCV_Blog_Project\\Views\\Shared\\Layout.cshtml",
               "RelativeDocumentMoniker": "MCV_Blog_Project\\Views\\Shared\\Layout.cshtml",
@@ -62,14 +79,14 @@
               "RelativeDocumentMoniker": "MCV_Blog_Project\\Controllers\\BlogController.cs",
               "ToolTip": "C:\\Users\\elif_\\source\\repos\\MCV_Blog_Project\\MCV_Blog_Project\\Controllers\\BlogController.cs",
               "RelativeToolTip": "MCV_Blog_Project\\Controllers\\BlogController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T11:04:30.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\elif_\\source\\repos\\MCV_Blog_Project\\MCV_Blog_Project\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "MCV_Blog_Project\\Views\\Category\\Index.cshtml",
@@ -77,8 +94,7 @@
               "RelativeToolTip": "MCV_Blog_Project\\Views\\Category\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-27T12:31:05.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T12:31:05.386Z"
             }
           ]
         }

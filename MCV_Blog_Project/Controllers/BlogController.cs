@@ -13,5 +13,9 @@ namespace MCV_Blog_Project.Controllers
         {
             return View();
         }
+        public PartialViewResult BlogList()
+        {
+            return PartialView();
+        }
     }
 }
